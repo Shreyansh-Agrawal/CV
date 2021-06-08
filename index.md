@@ -5,7 +5,9 @@
   <meta charset="utf-8">
   <title> Shreyansh's Personal Site </title>
 </head>
-<table cellspacing="20">
+
+<body>
+  <table cellspacing="20">
   <tr>
     <td><img src="Shreyansh's profile.png" alt="Shreyansh's image" width="200">
     </td>
@@ -19,9 +21,6 @@
     </td>
   </tr>
 </table>
-
-<body>
-
   <hr>
   <h3>Education</h3>
   <ul>
